@@ -1,0 +1,113 @@
+#w{
+    text-align: center;
+background-color: black;
+color: rgb(254, 254, 254);
+border-style:double;
+border-color: white;
+
+}
+
+#li{
+    text-align: left;
+    word-spacing: 20px;
+    color: aqua;
+}
+
+a{
+    text-decoration: none;
+    color: aqua;
+   
+}
+
+#m{
+    color: white;
+}
+
+#img{
+    boder:2px;
+    border-style: double;
+    border-color: white;
+}
+
+#f{
+    border-style:double;
+    border-color: white;
+    text-align: center;
+    word-spacing: 60px; 
+    font-size: x-large;   
+}
+
+#Burger{
+    text-align: center;
+    border-style: double;
+    border-color: white;
+    color: red;
+}
+
+#b{
+    color:white;
+    font-size: x-large; 
+}
+
+#BBQ{
+    text-align: center;
+    border-style: double;
+    border-color: white;
+    color: red;
+}
+
+#bq{
+    color:white;
+    font-size: x-large; 
+}
+
+#Biryani{
+    text-align: center;
+    border-style: double;
+    border-color: white;
+    color: red;
+   
+}
+
+#br{
+    color:white;
+    font-size: x-large; 
+}
+
+#a{
+    text-align: center;
+    border-style: double;
+    border-color: white;
+    color: white;
+}
+
+#p{
+    color: white;
+    text-align: justify;
+    font-size: large;
+    line-height: 30px;
+}
+
+#c{
+    
+    text-align: center;
+    color: white;
+}
+
+#d{
+    width: 360px;
+}
+
+#s{
+    width: 120px;
+    color: tomato;
+}
+
+#t{
+    width: 350px;
+}
+
+#b{
+    border: 2px;
+    border-color: width;
+}
