@@ -83,15 +83,14 @@ a{
 
 #p{
     color: white;
-    text-align: justify;
+    text-align:justify;
     font-size: large;
-    line-height: 30px;
+    line-height: 40px;
 }
 
 #c{
-    
-    text-align: center;
-    color: white;
+    text-align: center;  
+
 }
 
 #d{
@@ -100,7 +99,6 @@ a{
 
 #s{
     width: 120px;
-    color: tomato;
 }
 
 #t{
@@ -110,4 +108,9 @@ a{
 #b{
     border: 2px;
     border-color: width;
+}
+
+#im{
+    float:right;
+
 }
